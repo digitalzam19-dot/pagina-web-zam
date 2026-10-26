@@ -1,0 +1,27 @@
+DIGITAL ZAM - PORTAFOLIO WEB
+============================
+
+CONTENIDO (todo completo)
+- index.html  -> la página completa (imágenes, carrusel y foto van dentro del archivo).
+- videos/     -> los 5 reels (cafe, reel1, reel2, reel4 y reel-final-agendamiento).
+- assets/     -> tu retrato PNG sin fondo (copia de respaldo).
+
+IMPORTANTE: sube la carpeta DigitalZam COMPLETA. Si subes solo index.html, los videos no se verán.
+
+CÓMO PUBLICAR (gratis)
+1. Netlify Drop: entra a app.netlify.com/drop y arrastra la carpeta DigitalZam descomprimida.
+2. Vercel o Cloudflare Pages: sube la carpeta con index.html en la raíz.
+3. GitHub Pages: sube el contenido a un repositorio y activa Pages.
+4. Hosting con cPanel: sube todo a public_html (index.html en la raíz).
+
+DATOS CONFIGURADOS
+- WhatsApp: +57 316 734 6412
+- Instagram: https://www.instagram.com/juan.zam19
+- TikTok: https://www.tiktok.com/@dzam618
+
+PARA CAMBIAR DATOS
+Abre index.html con un editor de texto y busca "Configura aquí tus datos"
+(variables WA, MSG, IG y TT).
+
+PARA CAMBIAR UN VIDEO
+Reemplaza el archivo en videos/ conservando el mismo nombre (MP4 vertical 9:16, idealmente menos de 8 MB).
